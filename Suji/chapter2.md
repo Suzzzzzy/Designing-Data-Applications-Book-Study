@@ -44,4 +44,5 @@
 논의주제)
 문서형 모델에 대해 헷갈렸는데, 찾아보니 NoSQL 데이터베이스의 특성 중 한가지였습니다. (Key-Value Database, Document Database, Column Family Database, Graph Database)
 데이터 저장은 Key-Value Type으로 하지만, 값을 문서형으로 저장한다는 특징이 있습니다. 
+데이터 모델을 정할 때, 단순하게 RDB vs NoSQL(Redis, mongoDB..) 정도로만 생각했는데 더 다양한 모델을 찾아보고 적합하게 사용해야된다는 것을 깨달았습니다.
 ```
